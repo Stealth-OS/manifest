@@ -12,7 +12,7 @@ familiar with [Repo](https://source.android.com/source/using-repo.html) and [Ver
 
 To initialize your local repository using the StealthOS trees, use a command like this:
 ```
-repo init -u git://github.com/Stealth-OS/platform_manifest -b 11
+repo init -u git://github.com/Stealth-OS/manifest -b 11
 ```
 Then to sync up:
 ```
