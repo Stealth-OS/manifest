@@ -54,66 +54,66 @@
   <remove-project name="device/ti/beagle-x15-kernel" />
 
   <!-- external -->
-  <remove-project name="platform/external/selinux" />
-  <remove-project name="platform/external/tinycompress" />
-  <remove-project name="platform/external/sqlite" />
-  <remove-project name="platform/frameworks/opt/net/wifi" />
-  <remove-project name="platform/frameworks/opt/telephony" />
-  <remove-project name="platform/external/fastrpc" />                
-  <remove-project name="platform/external/libcxx" /> 
-  <remove-project name="platform/external/arm-optimized-routines" />
-  <remove-project name="platform/external/scudo" />
+  <!--remove-project name="platform/external/selinux" -->
+  <!--remove-project name="platform/external/tinycompress" -->
+  <!--remove-project name="platform/external/sqlite" -->
+  <!--remove-project name="platform/frameworks/opt/net/wifi" -->
+  <!--remove-project name="platform/frameworks/opt/telephony" -->
+  <!--remove-project name="platform/external/fastrpc" -->                
+  <!--remove-project name="platform/external/libcxx" --> 
+  <!--remove-project name="platform/external/arm-optimized-routines" />
+  <!--remove-project name="platform/external/scudo" -->
 
   <!-- frameworks -->
-  <remove-project name="platform/frameworks/av" />
-  <remove-project name="platform/frameworks/base" />
-  <remove-project name="platform/frameworks/native" />
+  <!--remove-project name="platform/frameworks/av" -->
+  <!--remove-project name="platform/frameworks/base" -->
+  <!--remove-project name="platform/frameworks/native" -->
 
   <!-- hardware -->
-  <remove-project name="platform/hardware/interfaces" />
-  <remove-project name="platform/hardware/libhardware" />
-  <remove-project name="platform/hardware/libhardware_legacy" />
-  <remove-project name="platform/hardware/qcom/bt" />
-  <remove-project name="platform/hardware/qcom/bootctrl" />
-  <remove-project name="platform/hardware/qcom/camera" />
-  <remove-project name="platform/hardware/qcom/msm8960" />
-  <remove-project name="platform/hardware/qcom/msm8994" />
-  <remove-project name="platform/hardware/qcom/msm8996" />
-  <remove-project name="platform/hardware/qcom/msm8x09" />
-  <remove-project name="platform/hardware/qcom/msm8x26" />
-  <remove-project name="platform/hardware/qcom/msm8x27" />
-  <remove-project name="platform/hardware/qcom/msm8x84" />
-  <remove-project name="platform/hardware/qcom/power" />
-  <remove-project name="platform/hardware/qcom/keymaster" />
+  <!--remove-project name="platform/hardware/interfaces" -->
+  <!--remove-project name="platform/hardware/libhardware" -->
+  <!--remove-project name="platform/hardware/libhardware_legacy" -->
+  <!--remove-project name="platform/hardware/qcom/bt" -->
+  <!--remove-project name="platform/hardware/qcom/bootctrl" -->
+  <!--remove-project name="platform/hardware/qcom/camera" -->
+  <!--remove-project name="platform/hardware/qcom/msm8960" -->
+  <!--remove-project name="platform/hardware/qcom/msm8994" -->
+  <!--remove-project name="platform/hardware/qcom/msm8996" -->
+  <!--remove-project name="platform/hardware/qcom/msm8x09" -->
+  <!--remove-project name="platform/hardware/qcom/msm8x26" -->
+  <!--remove-project name="platform/hardware/qcom/msm8x27" -->
+  <!--remove-project name="platform/hardware/qcom/msm8x84" -->
+  <!--remove-project name="platform/hardware/qcom/power" -->
+  <!--remove-project name="platform/hardware/qcom/keymaster" -->
 
   <!-- Package repos -->
-  <remove-project name="platform/packages/apps/Settings" />
-  <remove-project name="platform/packages/apps/Launcher3" />
-  <remove-project name="platform/packages/apps/Nfc" />
-  <remove-project name="platform/packages/services/Telecomm" />
-  <remove-project name="platform/packages/apps/ThemePicker" />
-  <remove-project name="platform/packages/apps/Bluetooth" />  
+  <!--remove-project name="platform/packages/apps/Settings" -->
+  <!--remove-project name="platform/packages/apps/Launcher3" -->
+  <!--remove-project name="platform/packages/apps/Nfc" -->
+  <!--remove-project name="platform/packages/services/Telecomm" -->
+  <!--remove-project name="platform/packages/apps/ThemePicker" -->
+  <!--remove-project name="platform/packages/apps/Bluetooth" -->  
 
   <!-- prebuilts -->
-  <remove-project name="platform/prebuilts/clang/host/darwin-x86" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
-  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
-  <remove-project name="platform/prebuilts/gdb/darwin-x86" />
-  <remove-project name="platform/prebuilts/go/darwin-x86" />
-  <remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" />
-  <remove-project name="platform/prebuilts/abi-dumps/vndk" />
+  <!--remove-project name="platform/prebuilts/clang/host/darwin-x86" -->
+  <!--remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" -->
+  <!--remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" -->
+  <!--remove-project name="platform/prebuilts/gcc/darwin-x86/host/i686-apple-darwin-4.2.1" -->
+  <!--remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" -->
+  <!--remove-project name="platform/prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9" -->
+  <!--remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.17-4.8" -->
+  <!--remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" -->
+  <!--remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" -->
+  <!--remove-project name="platform/prebuilts/gdb/darwin-x86" -->
+  <!--remove-project name="platform/prebuilts/go/darwin-x86" -->
+  <!--remove-project name="platform/prebuilts/python/darwin-x86/2.7.5" -->
+  <!--remove-project name="platform/prebuilts/abi-dumps/vndk" -->
   
   <!-- system -->
-  <remove-project name="platform/system/core" />
-  <remove-project name="platform/system/bt" />
-  <remove-project name="platform/system/sepolicy" />
-  <remove-project name="platform/system/vold" />
-  <remove-project name="platform/system/update_engine" />
+  <!--remove-project name="platform/system/core" -->
+  <!--remove-project name="platform/system/bt" -->
+  <!--remove-project name="platform/system/sepolicy" -->
+  <!--remove-project name="platform/system/vold" -->
+  <!--remove-project name="platform/system/update_engine" -->
 
 </manifest>

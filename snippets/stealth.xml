@@ -5,4 +5,6 @@
            fetch="https://github.com/Stealth-OS"
            revision="refs/heads/11" />
 
+<project path="vendor/stealth" name="android_vendor_stealth" remote="stealth" />
+
 </manifest>
