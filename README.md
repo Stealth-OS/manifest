@@ -33,7 +33,7 @@ $ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 $ cd ~/stealth
 $ source build/envsetup.sh
 $ lunch stealth_<devicecodename>-eng
-$ make bacon -j$(nproc --all)
+$ m stealth
 ```
 ### Obtaining zip output
 ```
