@@ -1,10 +1,7 @@
 StealthOS
 ===========
 Just another aosp flavour with additional topping of stealth club.
-# Credits
-[Lineage OS](https://github.com/LineageOS)<br>
-[Evolution X](https://github.com/Evolution-X)<br>
-[Google for AOSP](https://www.google.com/aosp)<br>
+
 
 Getting started
 ---------------
@@ -49,6 +46,11 @@ Project status
 WIP [DO-NOT-SYNC]
 
 also join t.me/Stealthos for project updates 
+
+# Credits
+[Lineage OS](https://github.com/LineageOS)<br>
+[Evolution X](https://github.com/Evolution-X)<br>
+[Google for AOSP](https://www.google.com/aosp)<br>
 
 
 
