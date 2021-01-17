@@ -9,7 +9,7 @@
            fetch="https://gitlab.com/EvoX"
            revision="refs/heads/elle" />
 
-  <project path="vendor/stealth" name="android_vendor_stealth" remote="stealth" />
+  <project path="vendor/stealth" name="vendor_stealth" remote="stealth" />
   <project path="build/make" name="android_build" remote="stealth" revision="11" >
      <copyfile src="core/root.mk" dest="Makefile" />
      <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
