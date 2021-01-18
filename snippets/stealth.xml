@@ -20,7 +20,7 @@
      <linkfile src="tools" dest="build/tools" />
   </project>
 
- <project path="vendor/gms" name="vendor_gapps" groups="vendor" clone-depth="1" remote="evo-gitlab" />
+ <!--project path="vendor/gms" name="vendor_gapps" groups="vendor" clone-depth="1" remote="evo-gitlab" -->
 
   <project path="build/soong" name="build_soong" remote="stealth" revision="11" >
       <linkfile src="root.bp" dest="Android.bp" />
