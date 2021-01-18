@@ -118,8 +118,8 @@
 
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/build/soong" />
-  <remove-project name="platform/packages/apps/Messaging" />
-  <remove-project name="platform/packages/apps/Dialer" />
+  <!--remove-project name="platform/packages/apps/Messaging" -->
+  <!--remove-project name="platform/packages/apps/Dialer" -->
   <remove-project name="platform/build" />
 
 </manifest>
